@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1005</width>
+    <height>786</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="1" column="1">
+    <layout class="QVBoxLayout" name="Best_Doctors">
+     <item>
+      <widget class="QLabel" name="Best_Doctors_Text">
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:600;&quot;&gt;Наша гордость!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <layout class="QGridLayout" name="Photos">
+       <item row="1" column="2">
+        <layout class="QVBoxLayout" name="verticalLayout_7">
+         <item>
+          <widget class="QLabel" name="photo_7">
+           <property name="text">
+            <string>Фотография</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="name_7">
+           <property name="text">
+            <string>Имя Фамилия</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item row="0" column="3">
+        <layout class="QVBoxLayout" name="verticalLayout_4">
+         <item>
+          <widget class="QLabel" name="photo_4">
+           <property name="text">
+            <string>Фотография</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="name_4">
+           <property name="text">
+            <string>Имя Фамилия</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item row="1" column="1">
+        <layout class="QVBoxLayout" name="verticalLayout_6">
+         <item>
+          <widget class="QLabel" name="photo_6">
+           <property name="text">
+            <string>Фотография</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="name_6">
+           <property name="text">
+            <string>Имя Фамилия</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item row="1" column="0">
+        <layout class="QVBoxLayout" name="verticalLayout_5">
+         <item>
+          <widget class="QLabel" name="photo_5">
+           <property name="text">
+            <string>Фотография</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="name_5">
+           <property name="text">
+            <string>Имя Фамилия</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item row="0" column="2">
+        <layout class="QVBoxLayout" name="verticalLayout_3">
+         <item>
+          <widget class="QLabel" name="photo_3">
+           <property name="text">
+            <string>Фотография</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="name_3">
+           <property name="text">
+            <string>Имя Фамилия</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item row="1" column="3">
+        <layout class="QVBoxLayout" name="verticalLayout_8">
+         <item>
+          <widget class="QLabel" name="photo_8">
+           <property name="text">
+            <string>Фотография</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="name_8">
+           <property name="text">
+            <string>Имя Фамилия</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item row="0" column="0">
+        <layout class="QVBoxLayout" name="verticalLayout_1">
+         <item>
+          <widget class="QLabel" name="photo_1">
+           <property name="text">
+            <string>Фотография</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="name_1">
+           <property name="text">
+            <string>Имя Фамилия</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item row="0" column="1">
+        <layout class="QVBoxLayout" name="verticalLayout_2">
+         <item>
+          <widget class="QLabel" name="photo_2">
+           <property name="text">
+            <string>Фотография</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="name_2">
+           <property name="text">
+            <string>Имя Фамилия</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+   <item row="0" column="1">
+    <layout class="QVBoxLayout" name="verticalLayout_10">
+     <item>
+      <widget class="QLabel" name="logo">
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:20pt;&quot;&gt;Очень крутой логотип&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="3" column="1">
+    <layout class="QVBoxLayout" name="verticalLayout_9">
+     <item>
+      <widget class="QLabel" name="label_2">
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Вы уже записаны:&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QTableWidget" name="appointment"/>
+     </item>
+    </layout>
+   </item>
+   <item row="0" column="0" rowspan="4">
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QLabel" name="label">
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Записаться на приём:&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="imsick">
+       <property name="text">
+        <string>Записаться</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QTableWidget" name="Doctors"/>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
